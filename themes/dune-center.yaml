@@ -1,27 +1,27 @@
 
-accent: '#47a0f3'
-background: '#101421'
-details: darker
-foreground: '#fffbf6'
 background_image:
   path: 'dune-center.jpg'
   opacity: 30
+accent: '#550068'
+background: '#1e0528'
+details: darker
+foreground: '#ffeeff'
 terminal_colors:
   bright:
-    black: '#565656'
-    blue: '#49a4f8'
-    cyan: '#99faf2'
-    green: '#c0e17d'
-    magenta: '#a47de9'
-    red: '#ec5357'
-    white: '#ffffff'
-    yellow: '#f9da6a'
+    black: '#320f55'
+    blue: '#873582'
+    cyan: '#4d6fff'
+    green: '#1a092d'
+    magenta: '#ffeeff'
+    red: '#aa00a3'
+    white: '#f8c0ff'
+    yellow: '#331354'
   normal:
-    black: '#2e2e2e'
-    blue: '#47a0f3'
-    cyan: '#64dbed'
-    green: '#abe047'
-    magenta: '#7b5cb0'
-    red: '#eb4129'
-    white: '#e5e9f0'
-    yellow: '#f6c744'
+    black: '#1e0528'
+    blue: '#550068'
+    cyan: '#b900b1'
+    green: '#05cb0d'
+    magenta: '#8991bb'
+    red: '#00d9e9'
+    white: '#ffeeff'
+    yellow: '#955ae7'
