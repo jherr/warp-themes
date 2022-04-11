@@ -1,27 +1,27 @@
 
 background_image:
   path: 'blade-runner-3.jpg'
-  opacity: 30
-accent: '#ff5faf'
-background: '#1c1c1c'
+  opacity: 25
+accent: '#123e7c'
+background: '#000b1e'
 details: darker
-foreground: '#808080'
+foreground: '#0abdc6'
 terminal_colors:
   bright:
-    black: '#d7af5f'
-    blue: '#5fafd7'
-    cyan: '#5f8787'
-    green: '#af005f'
-    magenta: '#d7875f'
-    red: '#5faf5f'
-    white: '#d0d0d0'
-    yellow: '#5faf00'
+    black: '#1c61c2'
+    blue: '#00ff00'
+    cyan: '#0abdc6'
+    green: '#d300c4'
+    magenta: '#711c91'
+    red: '#ff0000'
+    white: '#d7d7d5'
+    yellow: '#f57800'
   normal:
-    black: '#1c1c1c'
-    blue: '#ff5faf'
-    cyan: '#ffaf00'
-    green: '#af87d7'
-    magenta: '#00afaf'
-    red: '#585858'
-    white: '#808080'
-    yellow: '#afd700'
+    black: '#123e7c'
+    blue: '#123e7c'
+    cyan: '#0abdc6'
+    green: '#d300c4'
+    magenta: '#711c91'
+    red: '#ff0000'
+    white: '#d7d7d5'
+    yellow: '#f57800'
